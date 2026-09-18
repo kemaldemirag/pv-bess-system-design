@@ -3,7 +3,7 @@
 > Portfolio reference work derived from public job postings (CONTEXT-BOUND / PLANNED). Source jobs are requirements inspiration only; no client execution, fabrication, bench test or production claim is made.
 
 **Status:** INITIAL / EVIDENCE REQUIRED · **Workspace phase:** Phase 3 · **Source:** JOB-04 (+ JOB-05 documentation concepts)
-**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15` · **Drive folder:** `Projelerim / Elektrik-Elektronik Mühendisliği / 15.09.2026 / 002-Proje Çıktıları / 04_pv_bess_system`
+**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15`
 
 ## Goal
 Produce a reproducible reference electrical design for an industrial load supplied by PV, BESS, grid and optional backup generation, inspired by JOB-04 and documentation concepts from JOB-05.
